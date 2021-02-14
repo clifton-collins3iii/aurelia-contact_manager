@@ -1,3 +1,6 @@
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import '../node_modules/font-awesome/css/font-awesome.css';
+
 import * as environment from '../config/environment.json';
 import {PLATFORM} from 'aurelia-pal';
 
